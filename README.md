@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nimble Giant Entertainment**
 
-- 🌱 I’m currently learning **Vue.js, A-Frame, Three.js,Tensorflow**
+- 🌱 I’m currently learning **A-Frame, Three.js ,Tensorflow**
 
 - 💬 Ask me about **Javascript, Python, C++ and more**
 
