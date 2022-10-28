@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjvemz" alt="jjvemz" /></a> </p>
 
-- 🔭 The last place I worked on: **Nimble Giant Entertainment**
+- 🔭 The last place I worked on: **Mad Viking Games**
 
 - 🌱 I’m currently learning **A-Frame, Three.js ,Tensorflow**
 
