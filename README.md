@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, Python, C++ and more**
 
-- 📫 How to reach me **juanjo.vergaramanzi@gmail.com**
+- 📫 How to reach me **juanj.vergaram@gmail.com**
 
 - ⚡ Fun fact **I like martial arts, video games, movies, anime and some good chat with some coffee or beer.**
 
