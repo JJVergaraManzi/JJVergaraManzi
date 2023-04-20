@@ -5,7 +5,7 @@
 
 - 🔭 The last place I worked on: **Mad Viking Games**
 
-- 🌱 I’m currently learning **A-Frame, Three.js ,Tensorflow**
+- 🌱 I’m currently learning **TypeScript, C# ,Tensorflow**
 
 - 💬 Ask me about **Javascript, Python, C++ and more**
 
