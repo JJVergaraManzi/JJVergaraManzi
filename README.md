@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjvemz" alt="jjvemz" /></a> </p>
 
-- 🔭 The last place I worked on: **Mad Viking Games**
+- 🔭 The last place I worked on: **I-create**
 
-- 🌱 I’m currently learning **TypeScript, C# ,Tensorflow**
+- 🌱 I’m currently learning **TypeScript, C# **
 
-- 💬 Ask me about **Javascript, Python, C++ and more**
+- 💬 Ask me about **Typescrypt, C++ Python and more**
 
 - 📫 How to reach me **juanj.vergaram@gmail.com**
 
